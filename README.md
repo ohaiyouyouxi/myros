@@ -1,4 +1,9 @@
 # myros
+![版本截图](shot.png)
+
+https://github.com/user-attachments/assets/50081c89-433f-4047-9683-1c7da3b5494c
+
+
 ## 第一步：先获取`root`权限
 ```
 sudo su
