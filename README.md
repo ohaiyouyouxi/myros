@@ -40,3 +40,4 @@ roscore
 ```
 > 输出`started core service [/rosout]`则完美通过测试
 ## 小结
+安装过程没有遇到问题。`wsl2`支持图形化，不必安装繁重的`vmware`。
